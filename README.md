@@ -1,4 +1,4 @@
-# Supply Chain Inventory Management Dashboard
+# Supply Chain & Inventory Management Dashboard
 
 ## Project Overview
 
